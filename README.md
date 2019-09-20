@@ -8,6 +8,13 @@
     * [简介](README.md)
 
 * JavaScript
-    * [基础](/docs/_navbar.md)
+    * [基础](#jump)
     * [This](/javascript/thi.md)
 ```
+
+[基础](docs/java/test.md)
+
+
+
+
+
