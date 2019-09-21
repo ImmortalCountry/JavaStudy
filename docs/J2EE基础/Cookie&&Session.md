@@ -128,7 +128,7 @@
 
 ##### 分析
 
-![img03](..\resource\img03.png)
+![img03](../resource/img03.png)
 
 * JSP
 
@@ -245,7 +245,7 @@
 
 ### 简单购物车。
 
-![img05](..\resource\img05.png)
+![img05](../resource/img05.png)
 
 ### CartServlet
 
