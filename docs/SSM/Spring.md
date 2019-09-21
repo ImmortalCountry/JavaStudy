@@ -122,7 +122,7 @@
 
 #### 结构图
 
-![工厂类结构图](..\resource\工厂类结构图.png)
+![工厂类结构图](../resource/工厂类结构图.png)
 
 #### 老版本的工厂类：BeanFactory
 
@@ -422,7 +422,7 @@ Spring 中提供三个衍生注解:(目前来讲功能一致)
 
 #### Spring 的 Bean 管理的方式的比较
 
-![注解和XML](..\resource\注解和XML.png)
+![注解和XML](../resource/注解和XML.png)
 
 * XML 和注解
 
@@ -467,11 +467,11 @@ Spring AOP 模块提供拦截器来拦截一个应用程序，例如，当执行
 
 **传统情况下,纵向继承**
 
-![纵向继承](..\resource\纵向继承.png)
+![纵向继承](../resource/纵向继承.png)
 
 **而AOP采用横向抽取**
 
-![AOP](..\resource\AOP.png)
+![AOP](../resource/AOP.png)
 
 
 
@@ -539,7 +539,7 @@ Spring 支持 **@AspectJ annotation style** 的方法和**基于模式**的方�
 | [XML Schema based](https://www.w3cschool.cn/wkspring/omps1mm6.html) | 方面是使用常规类以及基于配置的 XML 来实现的。                |
 | [@AspectJ based](https://www.w3cschool.cn/wkspring/k4q21mm8.html) | @AspectJ 引用一种声明方面的风格作为带有 Java 5 注释的常规 Java 类注释。 |
 
-![AOP相关术语](..\resource\AOP相关术语.png)
+![AOP相关术语](../resource/AOP相关术语.png)
 
 #### Spring 使用 AspectJ 进行 AOP 的开发 XML 的方式
 
@@ -614,19 +614,19 @@ Spring 支持 **@AspectJ annotation style** 的方法和**基于模式**的方�
 
 * 前置通知 ：在目标方法执行之前执行； 可获得切入点的信息
 
-![获取切入点信息](..\resource\获取切入点信息.png)
+![获取切入点信息](../resource/获取切入点信息.png)
 
 * 后置通知 ：在目标方法执行之后执行；获得方法的返回值
 
-![后置通知01](..\resource\后置通知01.png)
+![后置通知01](../resource/后置通知01.png)
 
-![后置通知02](..\resource\后置通知02.png)
+![后置通知02](../resource/后置通知02.png)
 
 * 环绕通知 ：在目标方法执行前和执行后执行；阻止目标方法执行
 
-![环绕01](..\resource\环绕01.png)
+![环绕01](../resource/环绕01.png)
 
-![环绕02](..\resource\环绕02.png)
+![环绕02](../resource/环绕02.png)
 
 * 异常抛出通知：在目标方法执行出现 异常的时候 执行
 * 最终通知 ：无论目标方法是否出现异常 最终通知都会 执行
