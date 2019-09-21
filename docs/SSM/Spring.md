@@ -11,7 +11,7 @@
 
 * 问题：如果底层的实现切换了，需要修改源代码，能不能不修改程序源代码对程序进行扩展 ？
 
-![aa](..\resource\aa.png)
+![aa](https://github.com/ImmortalCountry/JavaStudy/blob/master/docs/resource/aa.png)
 
 如 MySQL换Oracle
 
