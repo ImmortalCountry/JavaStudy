@@ -1,10 +1,10 @@
 ## MVC设计模式
 
-![img022](..\resource\mvc.png)
+![img022](../resource/mvc.png)
 
 ### JSP开发模式
 
-![img011](..\resource\jsp.png)
+![img011](../resource/jsp.png)
 
 ### 三层架构&MVC练习
 
