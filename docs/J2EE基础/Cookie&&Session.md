@@ -128,7 +128,7 @@
 
 ##### 分析
 
-![img03](\resource\img03.png)
+![img03](..\resource\img03.png)
 
 * JSP
 
