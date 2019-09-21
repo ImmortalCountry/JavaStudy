@@ -58,7 +58,7 @@ MyBatis是一个优秀的持久层框架，它对jdbc的操作数据库的过程
 
 ## Mybatis 架构
 
-![Mybatis架构](..\resource\Mybatis架构.png)
+![Mybatis架构](../resource/Mybatis架构.png)
 
 1. mybatis配置
 
@@ -441,7 +441,7 @@ Mapper接口开发需要遵循以下规范：
 义mapper映射文件UserMapper.xml
 将UserMapper.xml放在config下mapper目录下，效果如下：
 
-![mapper](..\resource\mapper.png)
+![mapper](../resource/mapper.png)
 
 * UserMapper.xml配置文件内容：
 
@@ -485,7 +485,7 @@ PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
 
 * UserMapper(接口文件)
 
-![Mapper四大原则](..\resource\Mapper四大原则.png)
+![Mapper四大原则](../resource/Mapper四大原则.png)
 
 ```java
 	public interface UserMapper {
@@ -632,7 +632,7 @@ SqlMapConfig.xml可以引用java属性文件中的配置信息如下：
 
 在config下定义db.properties文件，如下所示：
 
-![properties](..\resource\properties.png)
+![properties](../resource/properties.png)
 
 db.properties配置文件内容如下：
 
@@ -768,7 +768,7 @@ PUBLIC "-//mybatis.org//DTD Config 3.0//EN"
 
 * 在mapper.xml配置文件中，就可以使用设置的别名了,别名大小写不敏感
 
-![别名](..\resource\别名.png)
+![别名](../resource/别名.png)
 
 
 
@@ -1144,11 +1144,11 @@ public void testQueryUserByWhere() {
 
 测试效果如下图：
 
-![效果1](..\resource\效果1.png)
+![效果1](../resource/效果1.png)
 
 如果注释掉	user.setSex("1")，测试结果如下图：
 
-![效果2](..\resource\效果2.png)
+![效果2](../resource/效果2.png)
 
 测试结果二很显然不合理。
 按照之前所学的，要解决这个问题，需要编写多个sql，查询条件越多，需要编写的sql就更多了，显然这样是不靠谱的。
@@ -1233,7 +1233,7 @@ Sql中可将重复的sql提取出来，使用时用include引用即可，最终�
 
 例如下图
 
-![Mapper配置sql片段](..\resource\Mapper配置sql片段.png)
+![Mapper配置sql片段](../resource/Mapper配置sql片段.png)
 
 ### foreach标签
 
@@ -1306,7 +1306,7 @@ public void testQueryUserByIds() {
 
 ### 商品订单数据模型
 
-![订单数据模型](..\resource\订单数据模型.png)
+![订单数据模型](../resource/订单数据模型.png)
 
 ### 一对一查询
 
@@ -1995,16 +1995,5 @@ public class UserMapperTest {
 }
 
 ```
-
-
-
-
-
-
-
-
-
-
-
 
 

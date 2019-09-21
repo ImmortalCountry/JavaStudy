@@ -95,7 +95,7 @@
 	}
 ```
 
-![img09](\resource\img09.png)
+![img09](../resource/img09.png)
 
 ** ServletContext 的方法 setAttribute(key[String],value)**
 
