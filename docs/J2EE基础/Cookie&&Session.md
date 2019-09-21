@@ -245,7 +245,7 @@
 
 ### 简单购物车。
 
-![img05](../resource/img05.png)
+![img05](..\resource\img05.png)
 
 ### CartServlet
 
