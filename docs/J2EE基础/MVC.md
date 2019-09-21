@@ -1,6 +1,6 @@
 ## MVC设计模式
 
-![img022](.\resource\mvc.png)
+![img022](\resource\mvc.png)
 
 ### JSP开发模式
 
