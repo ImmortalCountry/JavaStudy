@@ -17,6 +17,10 @@
 * [Spring](docs/SSM/Spring.md)
 * [MyBatis](docs/SSM/MyBatis.md)
 
+## 设计模式
+
+* [简单工厂模式](docs/设计模式/简单工厂模式.md)
+
 
 
 
