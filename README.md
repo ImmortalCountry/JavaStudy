@@ -51,10 +51,21 @@
 * [Servlet基础](docs/J2EE基础/Servlet.md)
 * [请求转发和请求重定向基础](docs/J2EE基础/请求转发和请求重定向.md)、
 
-## SSM框架
+## 框架
 
-* [Spring](docs/SSM/Spring.md)
-* [MyBatis](docs/SSM/MyBatis.md)
+### Spring
+
+* [Spring](docs/框架/Spring/Spring.md)
+* [Spring的工厂类](docs/框架/Spring/Spring的工厂类.md)
+* [Spring之依赖注入(DI)](docs/框架/Spring/Spring之面向切面DI.md)
+* [Spring之控制反转(IOC)](docs/框架/Spring/Spring之控制反转IOC.md)
+* [Spring之面向切面(AOP)](docs/框架/Spring/Spring之面向切面AOP.md)
+* [Spring之XML配置](docs/框架/Spring/Spring之XML配置.md)
+* [Spring之注解](docs/框架/Spring/Spring之注解.md)
+
+### SpringMVC
+
+### MyBatis
 
 ## 设计模式
 
