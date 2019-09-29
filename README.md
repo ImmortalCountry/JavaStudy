@@ -5,6 +5,14 @@
 
 ## Java基础
 
+### 接口
+
+* [接口](docs/java/接口概括.md)
+
+### HashMap
+
+* [HashMap](docs/java/HashMap.md)
+
 ## 数据库
 
 * [MySQL基础语法](docs/数据库/SQL语句.md)
