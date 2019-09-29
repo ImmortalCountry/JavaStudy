@@ -57,7 +57,7 @@
 
 * [Spring](docs/框架/Spring/Spring.md)
 * [Spring的工厂类](docs/框架/Spring/Spring的工厂类.md)
-* [Spring之依赖注入(DI)](docs/框架/Spring/Spring之面向切面DI.md)
+* [Spring之依赖注入(DI)](docs/框架/Spring/Spring之依赖注入DI.md)
 * [Spring之控制反转(IOC)](docs/框架/Spring/Spring之控制反转IOC.md)
 * [Spring之面向切面(AOP)](docs/框架/Spring/Spring之面向切面AOP.md)
 * [Spring之XML配置](docs/框架/Spring/Spring之XML配置.md)
