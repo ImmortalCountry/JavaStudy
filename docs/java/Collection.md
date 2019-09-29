@@ -1,6 +1,6 @@
 # 集合总体概括
 
-![接口](https://raw.githubusercontent.com/ImmortalCountry/BlogPhotos/master/%E6%8E%A5%E5%8F%A3.png)
+![Collection](https://raw.githubusercontent.com/ImmortalCountry/BlogPhotos/master/%E6%8E%A5%E5%8F%A3.png)
 
 ## Collection
 
