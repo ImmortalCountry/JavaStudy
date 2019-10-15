@@ -5,7 +5,7 @@
 
 ## Java基础
 
-* [常见Java知识点](docs/java/javaSet.md)
+* [常见Java知识点](docs/java/JavaSet.md)
 
 ### 接口
 
