@@ -5,35 +5,25 @@
 
 ## Java基础
 
+###  常见Java知识点
+
 * [常见Java知识点](docs/java/JavaSet.md)
 
-### 接口
+### Java常见数据结构
 
 * [Collection](docs/java/Collection.md)
-
-### List
-
 * [List](docs/java/List.md)
 
-### Set
-
+	* [ArrayList源码解析](docs/java/ArrayList.md)
+	* [LinkedList源码解析](docs/java/LinkedList.md)
 * [Set](docs/java/Set.md)
-
-### Map
-
 * [Map](docs/java/Map.md)
 
-### HashMap
+	* [HashMap源码解析](docs/java/HashMap.md)
 
-* [HashMap源码解析](docs/java/HashMap.md)
+### JVM
 
-### ArrayList
-
-* [ArrayList源码解析](docs/java/ArrayList.md)
-
-### LinkedList
-
-* [LinkedList源码解析](docs/java/LinkedList.md)
+* [JVM模型](docs/JVM/JVM模型.md)
 
 ## 数据库
 
